@@ -198,3 +198,27 @@ The README file should introduces the artifact to the user, i.e.,  describes wha
   * Please provide for each task/step of the replication (an estimate) how long it will take to perform it or how long it took for you and what exact machine(s) you used.	
 * For tasks or experiments that require a large amount of resources (hardware or time), we additionally recommended to offer a possibility to replicate a subset of the results of the paper that can be reproduced in a reasonable amount of time (e.g., within 8 hours) on various hardware platforms including laptops.	 In this case, please also include a script to replicate only a subset of the results. If this is not possible, please contact the artifact evaluation chairs early, but no latter than before submission.
 * Ideally, it describes how to use your artifact in general accompanied by small examples.
+
+# Artifact Evaluation Committee
+
+## Chairs
+* Marie-Christine Jakobs (Technische Universität Darmstadt, Germany)
+* Eduard Kamburjan (University of Oslo, Norway)
+
+## Members
+* Chinmayi Baramashetru (University of Oslo, Norway)
+* Saverio Giallorenzo (Università di Bologna, Italy, and Inria, France)
+* Pablo Gómez-Abajo (Universidad Autónoma de Madrid, Spain)
+* Elena Gómez-Martínez (Universidad Autónoma de Madrid, Spain)
+* Jan Haltermann (Carl von Ossietzky Universität Oldenburg, Germany)
+* Hannes Kallwies (Universität zu Lübeck, Germany)
+* Dylan Marinho (LORIA, Université de Lorraine, France)
+* Felix Pauck (Universität Paderborn, Germany)
+* Sven Peldszus (Universität Koblenz-Landau, Germany)
+* Mohammad Rezaalipour (Università della Svizzera italiana, Switzerland)
+* Cedric Richter (Carl von Ossietzky Universität Oldenburg, Germany)
+* Maya Retno Ayu Setyautami (Universitas Indonesia, Indonesia)
+* Asmae Heydari Tabar (Technische Universität Darmstadt, Germany)
+* Matthias Volk (Universiteit Twente, The Netherlands)
+* Xiuheng Wu (Nanyang Technological University, Singapore)
+* Liu Ye (Nanyang Technological University, Singapore)
