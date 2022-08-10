@@ -181,16 +181,16 @@ A LICENSE file describing the rights.  Your license needs to allow the artifact 
 ### README
 The README file should introduces the artifact to the user, i.e.,  describes what the artifact does, and guides the user through the installation, set up tests, and replication of your results. Ideally, it should consist of the following parts.
 
-* *Summary* briefly describes the artifact goal, authors, reference to the paper, and indication on how to cite the artifact.
-* *Setup* describes the steps to set up your artifact within the provided FASE 2023 VM. To simplify the reviewing process, we recommend to provide an installation script (if necessary).
-* *Hardware Requirements* state the hardware requirements (RAM, number of cores, CPU frequency), which you considered to test your artifact. Your resource requirements should be modest and allow replication of results even on laptops. 
-* *Test Instructions* document how to perform the test phase evaluation, e.g., provide instructions that allow rudimentary testing (i.e., in such a way that technical difficulties would pop up) in as little time as possible.
-* *Replication Instructions* clearly describe how to repeat/replicate/reproduce the results presented in the paper.
+* **Summary** briefly describes the artifact goal, authors, reference to the paper, and indication on how to cite the artifact.
+* **Setup** describes the steps to set up your artifact within the provided FASE 2023 VM. To simplify the reviewing process, we recommend to provide an installation script (if necessary).
+* **Hardware Requirements** state the hardware requirements (RAM, number of cores, CPU frequency), which you considered to test your artifact. Your resource requirements should be modest and allow replication of results even on laptops. 
+* **Test Instructions** document how to perform the test phase evaluation, e.g., provide instructions that allow rudimentary testing (i.e., in such a way that technical difficulties would pop up) in as little time as possible.
+* **Replication Instructions** clearly describe how to repeat/replicate/reproduce the results presented in the paper.
   * Please document which claims or results of the paper can be replicated with the artifact and how (e.g., which experiment must be performed). Please also explain which claims and results cannot be replicated and why.
   * Describe in detail how to replicate the results in the paper, especially describe the steps that need to be performed to replicate the results in the paper. To simplify the reviewing process, we recommend to provide evaluation scripts (where applicable).
   * Please provide for each task/step of the replication (an estimate) how long it will take to perform it or how long it took for you and what exact machine(s) you used.	
-* *Replication with Limited Resources* For tasks or experiments that require a large amount of resources (hardware or time), we additionally recommended to offer a possibility to replicate a subset of the results of the paper that can be reproduced in a reasonable amount of time (e.g., within 8 hours) on various hardware platforms including laptops. In this case, please also include a script to replicate only a subset of the results. If this is not possible, please contact the artifact evaluation chairs early, but no later than before submission.
-* *Examples of Usage* describe how to use your artifact in general accompanied by small examples.
+* **Replication with Limited Resources** For tasks or experiments that require a large amount of resources (hardware or time), we additionally recommended to offer a possibility to replicate a subset of the results of the paper that can be reproduced in a reasonable amount of time (e.g., within 8 hours) on various hardware platforms including laptops. In this case, please also include a script to replicate only a subset of the results. If this is not possible, please contact the artifact evaluation chairs early, but no later than before submission.
+* **Examples of Usage** describe how to use your artifact in general accompanied by small examples.
 
 # Artifact Evaluation Committee
 
