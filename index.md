@@ -1,4 +1,4 @@
-[Past FASE Artifact Evaluations](./past-aes)
+[Past FASE Artifact Evaluations](./past-aes.html)
 
 # FASE Artifact Evaluation 2023
 As in 2022, FASE'23 will have an optional artifact evaluation for accepted papers.
