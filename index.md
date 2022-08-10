@@ -90,7 +90,7 @@ Do not submit a virtual machine image in the .zip file. AEC members will copy yo
 For further information, consider our [recommendations](#recommendations) on the artifact content.
 
 ## FASE 2023 Virtual Machine
-The [FASE 2022 virtual machine]() was created with VirtualBox 6.1.26 and consists of an installation of Ubuntu 20.04.03 with Linux 5.11.0-37 and the following notable packages.
+The [FASE 2023 virtual machine]() was created with VirtualBox 6.1.26 and consists of an installation of Ubuntu 20.04.03 with Linux 5.11.0-37 and the following notable packages.
 
 * A 32bit libc
 * clang 12.0.0
