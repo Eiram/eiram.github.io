@@ -1,5 +1,4 @@
 # FASE Artifact Evaluation 2022
-
 [Current Artifact Evaluation](./index.html)
 
 [Past FASE Artifact Evaluations](./past-aes.html)
