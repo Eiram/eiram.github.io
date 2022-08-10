@@ -19,10 +19,10 @@ Submission of artifacts is optional. We aim to assess the artifacts themselves a
 The goal of our review process is to be constructive and to improve the submitted artifacts. Only, if an artifact cannot be improved to achieve sufficient quality in the given time frame or it is inconsistent with the paper, it should be rejected. Furthermore, papers whose artifacts are successfully evaluated will be awarded one or two artifact badges. 
 
 # Important Dates
- * 05.01.23 - Submission Artifact
- * 16.01.23 - Test phase notification
- * 16.01 - 19.01.23 - Communication phase
- * 09.02.23 - Final Notification
+ * 05.01.2023 - Submission Artifact
+ * 16.01.2023 - Test phase notification
+ * 16.01 - 19.01.2023 - Communication phase
+ * 09.02.2023 - Final Notification
 
 # Artifact Evaluation
 All artifacts are evaluated by the artifact evaluation committee. Each artifact will be reviewed by at least two committee members. Reviewers will read the accepted paper and explore the artifact to evaluate how well the artifact supports the claims and results of the paper. The evaluation is based on the following questions.
