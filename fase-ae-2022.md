@@ -1,7 +1,7 @@
 # FASE Artifact Evaluation 2022
 
-### [Current Artifact Evaluation](./index.html)
-### [Past FASE Artifact Evaluations](./past-aes.html)
+[Current Artifact Evaluation](./index.html)
+[Past FASE Artifact Evaluations](./past-aes.html)
 
 Based on positive experiences of the community, FASE'22 will have an optional artifact evaluation for accepted papers.
 
