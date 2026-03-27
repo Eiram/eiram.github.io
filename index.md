@@ -4,6 +4,10 @@ iFS is the continuation of the two long-standing 	established conference series 
 
 ![iFS logo](iFS.svg)
 
+|||
+| --- | --- |
+| A | B|
+
 | --- | --- |
 | # Links		| For more details please visit the current conference [website]().|	
 |			| For the past proceedings of iFM visit [this page](https://dblp.org/db/conf/ifm/index.html). |
